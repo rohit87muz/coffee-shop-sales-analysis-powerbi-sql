@@ -232,3 +232,7 @@ Aspiring Data Analyst
 - Business Intelligence
 
 ⭐ If you found this project helpful, don't forget to give it a Star.
+
+## 📁 Power BI Dashboard
+
+Download the `.pbix` file from the **Power BI** folder to explore the interactive dashboard using Microsoft Power BI Desktop.
